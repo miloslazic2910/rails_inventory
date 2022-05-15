@@ -217,6 +217,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap
+  bundler (~> 2.3, >= 2.3.13)
   capybara
   debug
   discard (~> 1.2)
