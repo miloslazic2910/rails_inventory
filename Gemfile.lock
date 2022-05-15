@@ -68,6 +68,7 @@ GEM
       tzinfo (~> 2.0)
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
+    ast (2.4.2)
     bindex (0.8.1)
     bootsnap (1.11.1)
       msgpack (~> 1.2)
@@ -132,6 +133,8 @@ GEM
     nio4r (2.5.8)
     nokogiri (1.13.6-x64-mingw-ucrt)
       racc (~> 1.4)
+    parser (2.7.2.0)
+      ast (~> 2.4.1)
     public_suffix (4.0.7)
     puma (5.6.4)
       nio4r (~> 2.0)
@@ -219,6 +222,7 @@ DEPENDENCIES
   discard (~> 1.2)
   importmap-rails
   jbuilder
+  parser (~> 2.3, >= 2.3.1.2)
   puma (~> 5.0)
   rails (~> 7.0.2, >= 7.0.2.4)
   selenium-webdriver
