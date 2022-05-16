@@ -36,11 +36,11 @@ Things you may want to cover:
 
 ![image](https://user-images.githubusercontent.com/45238692/168510990-28edcd78-d04c-4bd4-b2c0-4bcf2a00cce0.png)
 
-4. If you want to edit this product, select the link 'Edit this item' and when finished select Update item.
+4. If you want to edit this product, select the link 'Edit this item' and when finished select Update item. If you select 'Back to items' this link will take you to the home page where we list all of the items.
 
 ![image](https://user-images.githubusercontent.com/45238692/168511138-bd018b29-05e3-4308-9fa1-ebcfbde39340.png)
 
-5. As you can see on this screen Qty is updated to 2000, if you select 'Back to items' this link will take you to the home page where we list all of the items.
+5. As you can see on this screen Qty is updated to 2000. 
 
 ![image](https://user-images.githubusercontent.com/45238692/168511416-2861ce6b-b9fe-408b-a7fa-425ae6f0e334.png)
 
