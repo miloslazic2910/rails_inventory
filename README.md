@@ -22,7 +22,7 @@ Things you may want to cover:
 6 rails s
 
 
-#################################################### Application Instructions ######################################
+#################################################### Application Instructions #######################
 
 1. Click on linke 'New item'
 
