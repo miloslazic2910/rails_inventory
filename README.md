@@ -52,7 +52,7 @@ Things you may want to cover:
 
 ![image](https://user-images.githubusercontent.com/45238692/168512033-bccda3e4-bfd9-4ad4-a784-7d3f00931056.png)
 
-8. When delted a pop-up will apear with a confirmation prompt, select 'Yes'.
+8. When deleted a pop-up will apear with a confirmation prompt, select 'Yes'.
 
 ![image](https://user-images.githubusercontent.com/45238692/168512289-b9056fd2-71d1-417d-90da-6aa1c5659145.png)
 
