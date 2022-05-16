@@ -1,9 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hi my name is Milos Lazic and this is my Fall 2022 - Shopify Developer Intern Challenge submission. Because Shopify uses Ruby on Rails I wanted to create my challenage submission in this stack.  This was my first time creating an app in this stack.  This app will show all products (items), regardless if they are deleted or not in order to showcase that the code does exacly what it should.  Future implementations should include creating one more route and displaying only the deleted items.
 
-Things you may want to cover:
 
 * Ruby version
 * ruby "3.1.2"
