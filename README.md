@@ -22,7 +22,7 @@ Things you may want to cover:
 6 rails s
 
 
-#################################################### Application Instructions #######################
+#################################################### Application Instructions ######################################
 
 1. Click on linke 'New item'
 
@@ -39,6 +39,15 @@ Things you may want to cover:
 4. If you want to edit this product select link 'Edit this item', when finished select Update item.
 
 ![image](https://user-images.githubusercontent.com/45238692/168511138-bd018b29-05e3-4308-9fa1-ebcfbde39340.png)
+
+5. As you can see on this screen Qty is updeted to 2000, if you select 'Back to items' this link will take you to home page where we list all items.
+
+![image](https://user-images.githubusercontent.com/45238692/168511416-2861ce6b-b9fe-408b-a7fa-425ae6f0e334.png)
+
+6. in order to 
+
+
+
 
 
 
