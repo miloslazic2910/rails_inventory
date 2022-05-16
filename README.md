@@ -44,7 +44,50 @@ Things you may want to cover:
 
 ![image](https://user-images.githubusercontent.com/45238692/168511416-2861ce6b-b9fe-408b-a7fa-425ae6f0e334.png)
 
-6. in order to 
+6. in order to update or delete the product(item) select link 'Show this item'
+
+![image](https://user-images.githubusercontent.com/45238692/168511894-df395a0d-2451-418e-b7e8-e468cf0c172d.png)
+
+7. On this screen you can delete the product(item) by selecting 'Distroy this item'
+
+![image](https://user-images.githubusercontent.com/45238692/168512033-bccda3e4-bfd9-4ad4-a784-7d3f00931056.png)
+
+8.when selecte pop up will apire with confirmation promt, select 'Yes'.
+
+![image](https://user-images.githubusercontent.com/45238692/168512289-b9056fd2-71d1-417d-90da-6aa1c5659145.png)
+
+9. After deletion, green confirmation text is in top left corner, field discraded is set to true and product is 'Soft Deleted', mining it can be restored.
+
+![image](https://user-images.githubusercontent.com/45238692/168512522-65c670f0-f533-4131-ad93-c1d17e614dec.png)
+
+10. in order to restore product select 'Show this item' ==> 'Edit this item' ==> and finaly select radio button with caption 'Restore Deleted record'(marked with checkmark)
+
+![image](https://user-images.githubusercontent.com/45238692/168512800-4bf6d9f5-9145-4654-a675-fbab1e28f522.png)
+
+11. we can see that restore is completed and filed 'Discarded' is updated to false.
+
+![image](https://user-images.githubusercontent.com/45238692/168512886-4564c35d-f59b-4bf3-8d3b-b683c5e53999.png)
+
+12.  in order to deleted product permanetly we have to delete the product twice.
+
+![image](https://user-images.githubusercontent.com/45238692/168513025-eba1a51e-b9d3-4fc9-b7a7-a18661bd1079.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
