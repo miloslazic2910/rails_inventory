@@ -48,7 +48,7 @@ Things you may want to cover:
 
 ![image](https://user-images.githubusercontent.com/45238692/168511894-df395a0d-2451-418e-b7e8-e468cf0c172d.png)
 
-7. On this screen you can delete the product(item) by selecting 'Distroy this item'
+7. On this screen you can delete the product(item) by selecting 'Destroy this item'
 
 ![image](https://user-images.githubusercontent.com/45238692/168512033-bccda3e4-bfd9-4ad4-a784-7d3f00931056.png)
 
